@@ -1,0 +1,48 @@
+body {
+  font-family: verdana, arial, helvetica, sans-serif;
+}
+
+div {
+  padding: 3px;
+  margin: 2px;
+}
+
+table {
+  width: 300px;
+  border-collapse: collapse;
+}
+
+th {
+  text-align: left;
+}
+
+table, th, td {
+  border: 1px solid black;
+  padding: 4px;
+}
+
+.bordered {
+  border: 1px dashed black;
+  background-color: #eee;
+}
+
+.selectors {
+  width: 200px;
+  padding: 10px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+
+.base {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.blue {
+  color: white;
+  background-color: blue;
+}
+
+.round {
+  border-radius: 20px;
+}

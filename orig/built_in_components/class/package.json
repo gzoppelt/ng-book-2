@@ -1,0 +1,18 @@
+{
+  "name": "ng_switch",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "traceur-loader": "^0.6.3",
+    "typescript": "^1.5.0-beta"
+  },
+  "dependencies": {
+    "http-server": "^0.8.0"
+  }
+}
