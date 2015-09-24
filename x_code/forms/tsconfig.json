@@ -1,0 +1,50 @@
+{
+    "version": "1.5.0",
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": true,
+        "noLib": false,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true
+    },
+    "filesGlob": [
+        "./**/*.ts",
+        "!./node_modules/**/*.ts"
+    ],
+    "files": [
+        "./adding_products_simple/app.ts",
+        "./adding_products_simple/forms/demo_form_ng_model.ts",
+        "./adding_products_simple/forms/demo_form_sku.ts",
+        "./adding_products_simple/forms/demo_form_sku_with_builder.ts",
+        "./adding_products_simple/forms/demo_form_with_custom_validations.ts",
+        "./adding_products_simple/forms/demo_form_with_events.ts",
+        "./adding_products_simple/forms/demo_form_with_validations_explicit.ts",
+        "./adding_products_simple/forms/demo_form_with_validations_shorthand.ts",
+        "./adding_products_simple/forms/fs_debug.ts",
+        "./adding_products_simple/forms/full_product.ts",
+        "./adding_products_simple/forms/scratchpad.ts",
+        "./adding_products_simple/product.ts",
+        "./adding_products_simple/typings/angular2/angular2.d.ts",
+        "./adding_products_simple/typings/es6-promise/es6-promise.d.ts",
+        "./adding_products_simple/typings/rx/rx-lite.d.ts",
+        "./adding_products_simple/typings/rx/rx.d.ts",
+        "./adding_products_simple/typings/tsd.d.ts",
+        "./app/ts/app.ts",
+        "./app/ts/forms/demo_form_ng_model.ts",
+        "./app/ts/forms/demo_form_sku.ts",
+        "./app/ts/forms/demo_form_sku_with_builder.ts",
+        "./app/ts/forms/demo_form_with_custom_validations.ts",
+        "./app/ts/forms/demo_form_with_events.ts",
+        "./app/ts/forms/demo_form_with_validations_explicit.ts",
+        "./app/ts/forms/demo_form_with_validations_shorthand.ts",
+        "./app/ts/forms/fs_debug.ts",
+        "./typings/angular2/angular2.d.ts",
+        "./typings/es6-promise/es6-promise.d.ts",
+        "./typings/rx/rx-lite.d.ts",
+        "./typings/rx/rx.d.ts",
+        "./typings/tsd.d.ts"
+    ]
+}
