@@ -1,4 +1,4 @@
-# ng-book-2-r6
+# ng-book-2
 ####starting with release numbers####
 ```
 git tag -a v0.0 -m 'Version 0.0'
